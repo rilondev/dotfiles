@@ -14,4 +14,4 @@ cmake ..
 make
 sudo make install
 
-echo $'\n Enter Gnome-Tweaks and change the icons to the name "Crule" xD'
+echo $'\n D0ne \!/ Enter Gnome-Tweaks and change the icons to the name "Crule" xD'
