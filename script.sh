@@ -2,7 +2,7 @@
 
 #Script to configure Ubuntu and newly installed derivatives in system :)
 
-echo $'updating the system, plz wait... \!/ \n'
+echo $'Updating the system, plz wait... \!/ \n'
 sudo apt update && sudo apt upgrade -y 
 
 echo $'\n Installing other Tools'
@@ -16,7 +16,7 @@ sudo apt install \
     neofetch \
     -y
 
-echo $'\n adding Brave and Spotify repositories'
+echo $'\n Adding Brave and Spotify repositories'
 #Spotify
 curl -sS https://download.spotify.com/debian/pubkey_5E3C45D7B312C643.gpg | sudo apt-key add - 
 echo "deb http://repository.spotify.com stable non-free" > sudo tee /etc/apt/sources.list.d/spotify.list
