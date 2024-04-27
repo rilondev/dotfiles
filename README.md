@@ -2,7 +2,7 @@
 A script where i install the main tools i use in `Ubuntu`.
 
 #### Lista da instalação
-<li> Brave Browser </li>s
+<li> Brave Browser </li>
 <li> Gnome Tweaks </li>
 <li> DConf Editor </li>
 <li> Ubuntu restricted extras </li>
