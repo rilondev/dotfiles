@@ -1,9 +1,8 @@
-# My dotfiles in Ubuntu
+# My dotfiles no Ubuntu
 A script where i install the main tools i use in `Ubuntu`.
 
-#### List of tools
-<li> Brave Browser </li>
-<li> Spotify </li>
+#### Lista da instalação
+<li> Brave Browser </li>s
 <li> Gnome Tweaks </li>
 <li> DConf Editor </li>
 <li> Ubuntu restricted extras </li>
@@ -14,20 +13,15 @@ A script where i install the main tools i use in `Ubuntu`.
 <li> Curl </li>
 
 
-### Installing
-After downloading, open the terminal and navigate to the repository `/dotfiles` and:
+### Instalando
+Depois de baixar, navegue até o repositório usando o terminal e execute o script.
 ```
 chmod x+u script.sh
 ./script.sh
 ```
 
-I use `Cutefish OS` icons which is based on Ubuntu and another on Arch. You can see their project <a href="https://en.cutefishos.com/">here</a>
-And to install **make sure Git is installed** and just run the same command above changing just the name to `icons.sh` like:
-```
-chmod x+u icons.sh
-./icons.sh
-```
-Now, just enter `Gnome tweaks > Appearance` and change the icons to the name "Crule" 😅
+Eu uso ícones do `Cutefish OS` que são baseados no Ubuntu. Você pode ver o projeto deles <a href="https://en.cutefishos.com/">here</a>
+
 
 
 
